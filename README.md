@@ -1,54 +1,35 @@
-# Android-Chat-App
-
-Android chat application developed with Java and Firebase. A hassle-free way to communicate. 
-### Features : 
-* message texts
-* Add contacts
-* edit profile credentials
-* Notifications with firebase cloud messaging
-
-## Screenshots : 
-
-<table>
-  <tr>
-    <th>Authentication</th>
-    <th>Adding Contact</th>
-    <th>Contacts</th>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/79650580/195169217-ad08d0e6-23a3-4fad-874e-e68b3b828c32.png" alt="Authentication" style="width:250px;height:500px;"></td>
-    <td><img src="https://user-images.githubusercontent.com/79650580/195169821-2efe67cc-718d-42b7-b510-d4004692cf3e.png" alt="Adding Contact" style="width:250px;height:500px;"></td>
-    <td><img src="https://user-images.githubusercontent.com/79650580/195169874-6bbcaa95-6e8b-4e7e-abad-69021df4bde5.png" alt="Contacts activity" style="width:250px;height:500px;"></td>
-  </tr>
-   
-</table>
+TEAM NAME  :  NAMMA VIVASAYEE
+Team members :     R.PRAVEEN KUMAR  (Front end developer )
+                   N.VIGNESHWARAN(Data analyst)
+                   M.KEERTHIKA (Data analyst)
+                   S.SARANYA (Data analyst)
+Technology used   :ANDRIOD STUDIO,
 
 
-<table>
-  <tr>
-    <th>Profile</th>
-    <th>Messaging</th>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/79650580/195170439-1688801d-3f90-4ef3-a591-c45200c3d714.png" alt="Profile activity" style="width:250px;height:500px;"></td>
-    <td><img src="https://user-images.githubusercontent.com/79650580/195171608-4b051690-59fa-4601-b1c6-db1e44c6bfd4.png" alt="messaging" style="width:250px;height:500px;"></td>
-  </tr>
-   
-</table>
 
-## Firebase Database Schema : 
-![image](https://user-images.githubusercontent.com/79650580/195172072-bcbe77b4-84c2-4a6c-817d-836bb0572db6.png)
+idea discription: We are trying to develop an agriculture related mobile application called namma vivasayee. It is developed keeping in mind the future technologies for agriculture sector. In coming times all the business will be based on mobile phone.. So buy agricultural products directly from the farmers.. This mobile application will help the farmers to get the necessary materials for the agricultural sector, agricultural machinery as subsidy and to make progress in the agricultural sector.
+run the project in andriod  studio using java and xml
 
-## Firebase Setup :
-* Setup Authentication - Email and Google account
-* Setup Realtime Database
-* Setup firebase Storage
-* Firebase messaging service
-* download the file google-services.json from firebase console and add to project file
-* Note: Download the google-services.json file after the Firebase services are set up to automatically include the services in the json file.
-* Note: When updating the google-services.json file then make sure to invalidate the caches as well as doing a clean + rebuild.
 
-### Full demo : 
-<div align="center">
-  <a href="https://youtu.be/U-NWcV_tfd4"><img src="https://user-images.githubusercontent.com/79650580/147914116-8f3725ef-8206-47b1-8735-f562ce3088f2.png" alt="Click here to watch full demo"></a>
-</div>
+
+
+TEAM MATES DETAILS 
+         R.PRAVEEN KUMAR  (Front end developer )        8148402208
+                   N.VIGNESHWARAN(Data analyst)          9345525366
+                   M.KEERTHIKA (Data analyst)             9342882903
+                  S.SARANYA (Data analyst                 6374612362
+
+1.We are trying to develop an agriculture related mobile application called namma vivasayee. It is developed keeping in mind the future technologies for agriculture sector. In coming times all the business will be based on mobile phone.. So buy agricultural products directly from the farmers.. This mobile application will help the farmers to get the necessary materials for the agricultural sector, agricultural machinery as subsidy and to make progress in the agricultural sector.
+
+
+2.An agriculture app project typically includes features like weather forecasts, crop management tools, market prices, pest alerts, and farming tips. Users can access information about optimal planting times, soil health, and even connect with experts for advice. The app aims to streamline farming processes, increase efficiency, and ultimately improve crop yields for farmers.
+
+
+3.The development process of an agriculture app involves several key steps. Firstly, define clear objectives and features based on user needs. Conduct market research to understand competitors and potential users. Create wireframes and prototypes to visualize the app's structure.
+
+Next, choose a suitable technology stack for development. Design the user interface and experience, keeping in mind the app's usability for farmers. Develop the app in iterative cycles, regularly testing and gathering feedback. Integrate relevant APIs for weather forecasts, crop data, etc.
+
+Implement features like crop management, pest control, and yield predictions. Ensure data security and privacy compliance. Conduct thorough testing for functionality, performance, and security. Once satisfied, launch the app, monitor user feedback, and address any issues promptly. Regularly update the app to add new features and improve performance based on user feedback and market trends.
+
+                  
+
